@@ -1,0 +1,4 @@
+Example data:
+Name: Harry, Username: harrio71, Email: harry@gmail.com, Password: Harry1234!
+Name: Bob, Username: bobb1, Email: bob@gmail.com, Password: Bobob1234!
+Name: john, Username: bigjohn, Email: john@gmail.com, Password: Bigjohn1234!
